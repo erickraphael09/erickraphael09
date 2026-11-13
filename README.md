@@ -1,104 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Erick%20Raphael&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descSize=18&descAlignY=60&animation=twinkling" alt="Erick Raphael" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=240&section=header&text=erick%20Braphael%09&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=38EF7D&center=true&vCenter=true&width=600&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+C%23+%7C+Desktop+%7C+Banco+de+Dados;%3E+Aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+### 💻 Técnico em Desenvolvimento de Sistemas — Senac
 
-<br/>
+Estudante de tecnologia com interesse em desenvolvimento de software, programação e banco de dados.
 
-![Curso](https://img.shields.io/badge/CURSO-Desenvolvimento_de_Sistemas-0F2027?style=for-the-badge&labelColor=11998E)
-![Instituição](https://img.shields.io/badge/INSTITUIÇÃO-Senac-0F2027?style=for-the-badge&labelColor=11998E)
-![Linguagem](https://img.shields.io/badge/LINGUAGEM-C%23-0F2027?style=for-the-badge&labelColor=11998E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+SQL;Aprendendo+e+construindo+%F0%9F%9A%80)
+
+[![GitHub](https://img.shields.io/badge/GitHub-erickraphael09-181717?style=for-the-badge&logo=github)](https://github.com/erickraphael09)
+[![Senac](https://img.shields.io/badge/Senac-Desenvolvimento_de_Sistemas-004A8D?style=for-the-badge)](https://www.sp.senac.br/)
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=2&section=header" width="100%" alt="" />
+## 👨‍💻 Sobre mim
 
-## 🖥️ `~/sobre-mim`
+Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, buscando aprimorar minhas habilidades em programação e ampliar meus conhecimentos na área de tecnologia.
 
-```bash
-$ whoami
-erickraphael09
+- 🎓 Técnico em Desenvolvimento de Sistemas — Senac
+- 💻 Interesse em desenvolvimento **back-end**
+- 🖥️ Experiência com aplicações desktop utilizando Windows Forms
+- 🗄️ Estudando banco de dados e linguagem SQL
+- 🚀 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor
 
-$ cat perfil.txt
-Curso ........ Técnico em Desenvolvimento de Sistemas (Senac)
-Linguagem .... C#
-Estudando .... Aplicações desktop · Banco de dados · Lógica de programação
-```
+---
 
-```csharp
-public class Erick
-{
-    public string Lema = "Aprendendo e construindo, um projeto de cada vez.";
+## 🌱 Atualmente
 
-    public void Evoluir()
-    {
-        while (true) { Estudar(); Programar(); Compartilhar(); }
-    }
-}
-```
+- 📚 Aprofundando C#, .NET e Windows Forms com aplicações desktop
+- 🗄️ Praticando modelagem de dados e integração com banco de dados
+- 🧱 Aplicando Programação Orientada a Objetos nos projetos da faculdade
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=2&section=header" width="100%" alt="" />
+---
 
-## ⚡ `~/stack`
+## 🧠 Tecnologias e Ferramentas
+
+<div align="center">
+
+| Área | Tecnologias |
+|------|-------------|
+| 💻 **Back-end** | C# · .NET |
+| 🖥️ **Desktop** | Windows Forms |
+| 🗄️ **Banco de Dados** | MySQL · MariaDB · SQL |
+| 🛠️ **Ferramentas** | Git · GitHub · Visual Studio |
+| 🖥️ **Virtualização** | Oracle VirtualBox |
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,windows,mysql,git,github" alt="Tecnologias" />
+
+<br><br>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+</div>
+
+---
+
+## 📁 Projetos em destaque
+
+<div align="center">
+
+<table>
+<tr>
+<th>Projeto</th>
+<th>Descrição</th>
+<th>Tecnologias</th>
+</tr>
+
+<tr>
+<td>📦 <a href="https://github.com/erickraphael09/lab_CadastroDeProdutos">lab_CadastroDeProdutos</a></td>
+<td>Sistema de cadastro e gerenciamento de produtos</td>
+<td>C# · Windows Forms</td>
+</tr>
+
+<tr>
+<td>🏦 <a href="https://github.com/GiovanniBalestriCintra/SistemaBancarioOO-Senac">SistemaBancarioOO-Senac</a></td>
+<td>Sistema bancário aplicando Orientação a Objetos</td>
+<td>C#</td>
+</tr>
+
+<tr>
+<td>🥖 <a href="https://github.com/GiovanniBalestriCintra/tds02_padaria">tds02_padaria</a></td>
+<td>Aplicação desktop com integração a banco de dados</td>
+<td>C#</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=2&section=header" width="100%" alt="" />
+---
 
-## 🚀 `~/projetos`
+## 🎯 Objetivos
+
+• Evolução contínua como profissional de tecnologia  
+• Aprendizado constante e desenvolvimento pessoal  
+• Criação de soluções úteis por meio da programação  
+• Participação em projetos que gerem valor e impacto  
+• Ampliação da experiência prática em desenvolvimento de software  
+• Construção de uma carreira sólida na área de tecnologia  
+• Transformação de conhecimento em resultados concretos
+
+---
+
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
-<a href="https://github.com/erickraphael09/tds02_padaria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erickraphael09&repo=tds02_padaria&bg_color=0F2027&title_color=38EF7D&text_color=C9D1D9&icon_color=38EF7D&border_color=203A43&locale=pt-br" alt="tds02_padaria" />
-</a>
-<a href="https://github.com/erickraphael09/tds02_padoca">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erickraphael09&repo=tds02_padoca&bg_color=0F2027&title_color=38EF7D&text_color=C9D1D9&icon_color=38EF7D&border_color=203A43&locale=pt-br" alt="tds02_padoca" />
-</a>
+[![GitHub](https://img.shields.io/badge/GiovanniBalestriCintra-GITHUB-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniBalestriCintra)
+
+[![Instagram](https://img.shields.io/badge/@gbalestri__-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbalestri_)
+
+[![LinkedIn](https://img.shields.io/badge/giovannibalestricintra-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibalestricintra)
+
+[![Email](https://img.shields.io/badge/giovanniibalestri@hotmail.com-HOTMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:giovanniibalestri@hotmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=2&section=header" width="100%" alt="" />
-
-## 📈 `~/estatisticas`
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erickraphael09&show_icons=true&bg_color=0F2027&title_color=38EF7D&text_color=C9D1D9&icon_color=38EF7D&border_color=203A43&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickraphael09&layout=compact&bg_color=0F2027&title_color=38EF7D&text_color=C9D1D9&border_color=203A43&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=erickraphael09&background=0F2027&border=203A43&ring=38EF7D&fire=38EF7D&currStreakLabel=38EF7D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=203A43&locale=pt_BR" alt="Sequência de contribuições" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=2&section=header" width="100%" alt="" />
-
-## 📫 `~/contato`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-erickraphael09-0F2027?style=for-the-badge&logo=github&logoColor=38EF7D)](https://github.com/erickraphael09)
-
-<!--
-Quando quiser, adicione seus outros contatos aqui:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEU_USUARIO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-SEU_EMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:SEU_EMAIL)
--->
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/GiovanniBalestriCintra/GiovanniBalestriCintra/output/github-contribution-grid-snake.svg" />
+</picture>
 
 *Em constante aprendizado, evoluindo um código de cada vez.* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=110&section=footer" width="100%" />
 
 </div>
