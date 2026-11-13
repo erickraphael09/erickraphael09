@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:512BD4&height=240&section=header&text=Erick%20Raphael%09&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=240&section=header&text=Erick%20raphael09&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Desenvolvimento%20de%20Sistemas%20•%20Back-end%20•%20C%23%20%7C%20.NET%20%7C%20SQL&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 ### 💻 Técnico em Desenvolvimento de Sistemas — Senac
 
@@ -9,7 +10,7 @@ Estudante de tecnologia com interesse em desenvolvimento de software, programaç
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+SQL;Aprendendo+e+construindo+%F0%9F%9A%80)
 
 [![GitHub](https://img.shields.io/badge/GitHub-erickraphael09-181717?style=for-the-badge&logo=github)](https://github.com/erickraphael09)
-[![Senac](https://img.shields.io/badge/Senac-Desenvolvimento_de_Sistemas-004A8D?style=for-the-badge)](https://www.sp.senac.br/)
+[![Senac](https://img.shields.io/badge/Senac-Desenvolvimento_de_Sistemas-8B0000?style=for-the-badge)](https://www.sp.senac.br/)
 
 </div>
 
@@ -51,12 +52,12 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 <br><br>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-FF0000?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-B22222?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-8B0000?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-A52A2A?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
 
@@ -99,22 +100,21 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 ## 📊 Estatísticas do GitHub
 
-
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img height="165" src="https://streak-stats.demolab.com?user=GiovanniBalestriCintra&theme=dark&hide_border=true&locale=pt_BR&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 ---
 
 ## 🎯 Objetivos
 
-• Evolução contínua como profissional de tecnologia  
-• Aprendizado constante e desenvolvimento pessoal  
-• Criação de soluções úteis por meio da programação  
-• Participação em projetos que gerem valor e impacto  
-• Ampliação da experiência prática em desenvolvimento de software  
-• Construção de uma carreira sólida na área de tecnologia  
-• Transformação de conhecimento em resultados concretos
+- Evolução contínua como profissional de tecnologia
+- Aprendizado constante e desenvolvimento pessoal
+- Criação de soluções úteis por meio da programação
+- Participação em projetos que gerem valor e impacto
+- Ampliação da experiência prática em desenvolvimento de software
+- Construção de uma carreira sólida na área de tecnologia
+- Transformação de conhecimento em resultados concretos
 
 ---
 
@@ -122,13 +122,13 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GiovanniBalestriCintra-GITHUB-2DA44E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniBalestriCintra)
+[![GitHub](https://img.shields.io/badge/GiovanniBalestriCintra-GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniBalestriCintra)
 
-[![Instagram](https://img.shields.io/badge/@gbalestri__-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbalestri_)
+[![Instagram](https://img.shields.io/badge/@gbalestri__-INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbalestri_)
 
-[![LinkedIn](https://img.shields.io/badge/giovannibalestricintra-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibalestricintra)
+[![LinkedIn](https://img.shields.io/badge/giovannibalestricintra-LINKEDIN-B22222?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannibalestricintra)
 
-[![Email](https://img.shields.io/badge/giovanniibalestri@hotmail.com-HOTMAIL-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:giovanniibalestri@hotmail.com)
+[![Email](https://img.shields.io/badge/giovanniibalestri@hotmail.com-HOTMAIL-FF0000?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:giovanniibalestri@hotmail.com)
 
 </div>
 
@@ -144,6 +144,6 @@ Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no Senac, bus
 
 *Em constante aprendizado, evoluindo um código de cada vez.* 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=110&section=footer" width="100%" />
 
 </div>
